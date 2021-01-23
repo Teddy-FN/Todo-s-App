@@ -1,0 +1,12 @@
+.submit {
+    width: 100%;
+    align-items: center;
+}
+
+.delete {
+    background-color: red;
+    border-radius: 10px;
+    text-align: center;
+    float: right;
+    margin-top: -3px;
+}
